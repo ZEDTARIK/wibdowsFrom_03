@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\bin\Debug\net6.0-windows\WindowsFormApp_03.exe
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\bin\Debug\net6.0-windows\WindowsFormApp_03.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\bin\Debug\net6.0-windows\WindowsFormApp_03.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\bin\Debug\net6.0-windows\WindowsFormApp_03.dll
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\bin\Debug\net6.0-windows\WindowsFormApp_03.pdb
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.dll
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\refint\WindowsFormApp_03.dll
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.pdb
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\ref\WindowsFormApp_03.dll
+C:\Users\ASUS\Desktop\Projects\C#\WindowsFormApp_03\WindowsFormApp_03\obj\Debug\net6.0-windows\WindowsFormApp_03.DepartmentFrm.resources
