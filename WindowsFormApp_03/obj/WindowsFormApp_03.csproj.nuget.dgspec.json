@@ -4,6 +4,36 @@
     "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\WindowsFormApp_03\\WindowsFormApp_03.csproj": {}
   },
   "projects": {
+    "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\WindowsFormApp_03\\WindowsFormApp_03.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +57,14 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1,11 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "BLL/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "BLL >= 1.0.0",
+      "DAL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ASUS\\.nuget\\packages\\": {}
@@ -33,7 +66,14 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\BLL\\BLL.csproj"
+            },
+            "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\C#\\WindowsFormApp_03\\DAL\\DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
